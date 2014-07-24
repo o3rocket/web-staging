@@ -1,0 +1,40 @@
+---
+layout: kunalo
+---
+{% include JB/setup %}
+
+<div class="post">
+<div class="row">
+
+  <div class="col-md-8">
+    <h2>{{ page.title }}</h2>
+    <p class="meta">
+      by: <span class="author">{{ page.author }},</span>
+       <span class="date">{{ page.date | date_to_string }}</span><br>
+      tags: <span class="tag-list">{{ page.tags | join: ',' }}</span>
+     </p>
+    </div>
+</div>
+<div class="row">
+  <div class="col-md-8">
+      {{ content }}
+
+        <div class="page-nav">
+          {% if page.previous %}
+          <a href="{{ page.previous.url }}">previous</a>
+          {% endif %}
+
+          {% if page.next %}
+          <a href="{{ page.next.url }}">next</a>
+          {% endif %}
+
+        </div>
+
+    </div>
+   <div class="col-md-3 col-md-offset-1">
+    <ul>
+      {% assign tags_list = site.tags %}
+      {% include JB/tags_list %}
+    </ul>
+  </div>
+</div>

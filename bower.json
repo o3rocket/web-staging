@@ -1,0 +1,21 @@
+{
+  "name": "KunaloRelations.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/KunaloRelations/KunaloRelations.github.io",
+  "authors": [
+    "Robert Read <robert.read@intel.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "jquery.smooth-scroll": "~1.4.13"
+  }
+}

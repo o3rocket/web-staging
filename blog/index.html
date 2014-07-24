@@ -1,0 +1,41 @@
+---
+layout: kunalo
+title: Index
+---
+
+<div id="home" class="row">
+  <div class="col-md-8">
+    <h2>Posts</h2>
+  </div>
+
+</div>
+
+<div class="row">
+  <div class="col-md-8">
+    <ul class="posts">
+      {% for post in site.posts %}
+      <li>
+        <h3>
+          &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+
+        <div class="excerpt">
+          <p>
+            {{post.excerpt }}
+          </p>
+
+          <p>
+            <span>{{ post.date | date_to_long_string }}</span>
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-md-3 col-md-offset-1">
+    <ul>
+      {% assign tags_list = site.tags %}
+      {% include JB/tags_list %}
+    </ul>
+  </div>
+</div>
