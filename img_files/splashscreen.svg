@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="480"
+   id="svg3068"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs3070">
+    <clipPath
+       id="clipPath3146"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3148"
+         d="m 0,876 2815,0 0,5755 L 0,6631 0,876 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74642639"
+     inkscape:cx="375"
+     inkscape:cy="359.23398"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1580"
+     inkscape:window-height="843"
+     inkscape:window-x="75"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3073">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-572.36218)">
+    <g
+       transform="matrix(0.76446494,0,0,-0.68424732,31.715435,1039.3962)"
+       inkscape:label="ink_ext_XXXXXX"
+       id="g3138">
+      <g
+         transform="scale(0.1,0.1)"
+         id="g3140">
+        <g
+           id="g3142">
+          <g
+             clip-path="url(#clipPath3146)"
+             id="g3144">
+            <path
+               id="path3150"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 1407.59,6630.46 -496.574,-1627.2 993.154,0 -496.57,1627.2"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path3152"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 2033.57,4842.09 -1251.695,0 C 679.008,4426.1 618.016,3905.18 618.016,3339.42 c 0,-901.04 154.761,-1688.82 385.874,-2118.91 l 807.78,0 c 230.99,430.08 386.01,1217.87 386.01,2118.91 0,565.76 -61.11,1086.68 -163.86,1502.67"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path3154"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="M 0.496094,989.91 C 108.625,918.301 230.074,876.66 359.215,876.66 c 200.242,0 382.812,98.391 523.48,259.18 -94.8,207.16 -171.55,440.71 -226.757,693.62 C 527.055,1419.87 289.016,1108.94 0.496094,989.789"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path3156"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 2159.25,1829.58 c -54.83,-252.9 -131.7,-486.45 -226.64,-693.62 140.53,-160.909 322.98,-259.179 523.6,-259.179 129.02,0 250.73,41.641 358.73,113.25 -288.39,119.139 -526.81,430.079 -655.71,839.669"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <path
+           id="path3158"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1196.5,86.3516 0,525.1994 c 0,58.039 -28.32,86.429 -87.77,86.429 l -283.042,0 c -60.864,0 -89.161,-28.39 -89.161,-86.429 l 0,-525.1994 C 736.527,28.3086 764.836,0 825.688,0 l 283.042,0 c 59.45,0 87.77,28.3086 87.77,86.3516 z m -154.33,45.3984 -150.174,0 0,434.922 150.174,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3160"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1845.48,99.1211 0,303.0199 c 0,49.558 -14.19,76.461 -52.5,97.699 l -102.16,63.719 100.73,65.132 c 38.31,21.239 53.93,49.559 53.93,99.118 l 0,254.882 c 0,63.709 -35.45,99.289 -97.84,99.289 l -330.32,0 c -62.38,0 -97.82,-35.43 -97.82,-99.109 l 0,-236.293 159,0 0,198.391 207.98,0 0,-229.141 -198.25,-135.109 0,-34.129 198.25,-136.531 0,-273.071 -207.98,0 0,211.5 -159,0 0,-249.3278 c 0,-63.75 34.02,-99.1719188 96.39,-99.1719188 l 331.75,0 c 63.81,0 97.84,35.3906188 97.84,99.1211188"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3174"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Fatboy Slim BLTC 2 BRK;-inkscape-font-specification:Fatboy Slim BLTC 2 BRK"
+       transform="matrix(1.5706234,0,0,4.267602,-250.31752,443.13276)"><flowRegion
+         id="flowRegion3176"><rect
+           id="rect3178"
+           width="758.27979"
+           height="103.1582"
+           x="316.17316"
+           y="29.855146" /></flowRegion><flowPara
+         id="flowPara3180">O3 Rocket Communications</flowPara><flowPara
+         id="flowPara3182" /><flowPara
+         id="flowPara3184" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3188"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Fatboy Slim BLTC 2 BRK;-inkscape-font-specification:Fatboy Slim BLTC 2 BRK"
+       transform="translate(0,572.36218)"><flowRegion
+         id="flowRegion3190"><rect
+           id="rect3192"
+           width="878.85425"
+           height="105.83763"
+           x="266.60364"
+           y="205.35805" /></flowRegion><flowPara
+         id="flowPara3194">public Relations, social media, community</flowPara></flowRoot>  </g>
+</svg>
